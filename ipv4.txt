@@ -1,5 +1,5 @@
 icook.tw:443#t.me/AM_CLUBS
-cloudflare.cfgo.cc:443#关注YouTube频道@AM_CLUB
+cloudflare.cfgo.cc:443#关注YouTube频道
 visa.com:443#AM科技免费节点
 152.70.155.147:443#US
 198.62.62.4:443#US
